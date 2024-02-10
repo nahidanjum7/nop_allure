@@ -1,0 +1,32 @@
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:20 Test Case test_user_login_DDT is started
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:22 Opening Browser & navigating to demo NOP_COMMERCE
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:37 Entering Emailadmin@yourstore.com
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:39 Entering Passwordadmin
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:41 click on login button
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:46 Test Case test_Login is passed
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:50 Expected result is passed
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:54 Taking Screenshot
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:57 Taking Screenshot for allure
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:37 Entering Emailadmin@yourstore.com1
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:39 Entering Passwordadmin
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:41 click on login button
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:74 Test Case test_Login is failed
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:78 Expected result is fail
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:82 Taking Screenshot
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:85 Taking Screenshot for allure
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:37 Entering Emailadmin@yourstore.com
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:39 Entering Passwordadmin1
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:41 click on login button
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:74 Test Case test_Login is failed
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:78 Expected result is fail
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:82 Taking Screenshot
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:85 Taking Screenshot for allure
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:37 Entering Emailadmin@yourstore.com1
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:39 Entering Passwordadmin1
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:41 click on login button
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:74 Test Case test_Login is failed
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:78 Expected result is fail
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:82 Taking Screenshot
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:85 Taking Screenshot for allure
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:106 Test Case test_user_login_DDT_fail is Passed
+[32mINFO    [0m Test_login_DDT:test_Userlogin_DDT.py:109 Test Case test_user_login_DDT_fail is Completed

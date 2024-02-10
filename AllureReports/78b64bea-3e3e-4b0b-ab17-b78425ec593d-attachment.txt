@@ -1,0 +1,11 @@
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:18 Test Case test_user_login_params is started
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:20 Opening Browser & navigating to demo NOP_COMMERCE
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:22 Entering email :admin@yourstore.com
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:24 Entering Password :admin1
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:26 Click on Login Button
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:53 Test Case test_Login is failed
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:56 Expected result is fail
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:59 Taking Screenshot
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:61 Taking Screenshot for allure
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:75 Test Case test_user_login_params is Passed
+[32mINFO    [0m Test_login_Params:test_UserLogin_Params.py:81 Test Case test_user_login_params is Completed

@@ -1,0 +1,25 @@
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:27 Test Case test_add_customer is started
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:29 Opening Browser & navigating to demo NOP_COMMERCE
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:31 Entering email :admin@yourstore.com
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:33 Entering Password :admin
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:35 Click on Loggin Button
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:40 click on customer menu button
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:43 click on customer sub menu button
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:45 click on add customer button
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:48 Email :bchnky@gmail.com
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:50 Enter Password :admin
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:52 Enter First Name
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:54 Enter Last Name
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:56 Enter Gender
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:58 Enter DOB
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:60 Enter Company Name
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:62 Click on is text exempt check box
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:64 Click on News Letter
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:66 Click on News Letter List
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:70 Select Value for Manager of Vendor
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:72 Click on Active CheckBox 
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:74 Enter Comment
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:76 Click on Save Button 
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:81 Test Case test_add_customer is passed
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:83 Taking Screenshot
+[32mINFO    [0m Test_AddCust:test_addcustomer.py:85 Taking Screenshot for allure

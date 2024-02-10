@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:26 Test Case test_verify_url is started
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:28 Opening Browser & navigating to demo NOP_COMMERCE
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:30 Page Title is: Your store. Login
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:36 Taking Screenshot
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:38 Taking Screenshot for allure
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:46 Test Case test_verify_url is Completed

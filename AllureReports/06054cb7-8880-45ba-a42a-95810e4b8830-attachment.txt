@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:50 Test Case test_Login is started
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:52 Opening Browser & navigating to demo NOP_COMMERCE
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:54 Entering email :admin@yourstore.com
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:56 Entering Password :admin
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:58 Click on Loggin Button
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:61 Test Case test_Login is passed
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:63 Taking Screenshot
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:65 Taking Screenshot for allure
+[32mINFO    [0m Test_Userprofile:test_UserProfile.py:75 Test Case test_Login is Completed
